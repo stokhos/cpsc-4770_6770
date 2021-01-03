@@ -90,3 +90,10 @@ ENV/
 
 # temporary data
 movielens*
+
+# Twitter
+Twitter
+
+core.*
+output.dat
+testmpiio.*
